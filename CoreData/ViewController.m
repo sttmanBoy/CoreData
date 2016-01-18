@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import "Entity+CoreDataProperties.h"
 #import "Note.h"
 #import "NoteBL.h"
 @interface ViewController ()
